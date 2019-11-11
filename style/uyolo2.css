@@ -101,3 +101,9 @@
   font-family: NokiaFont;
    src: url('../style/NokiaRegular.ttf');
  }
+ 
+ .centrer{
+     text-align: center;
+     margin-top: 50vh; /* poussé de la moitié de hauteur de viewport */
+     margin-bottom: 50vh; /* poussé de la moitié de hauteur de viewport */
+   }
